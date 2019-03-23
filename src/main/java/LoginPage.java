@@ -16,7 +16,8 @@ public class LoginPage {
     private By error1 = By.xpath("//div[text()=\"Incorrect login or password.\"]");
     private By error2 = By.xpath("//*[@id=\"username-element\"]/span");
     private By error3 = By.xpath("//*[@id=\"password-element\"]/span");
-    //private By errorNotValidField = By.xpath("//*[@id=\"username-element\"]/span");
+    private By linkOnlineHelp = By.xpath("//a[@class =\"element place-right\"]");
+    private By buttonRefresh = By.xpath("//a[@title=\"Refresh\"]");
 
 
     public LoginPage typeLogin (String login) {
@@ -62,4 +63,20 @@ public class LoginPage {
     public String getError3Text() {
         return driver.findElement(error3).getText();
     }
+
+    public OnlineHelpPage clickOnlineHelpButton () {
+        driver.findElement(linkOnlineHelp).click();
+        return new OnlineHelpPage(driver);
+    }
+
+    public LoginPage clickRefreshButton () {
+        driver.findElement(buttonRefresh).click();
+        return new LoginPage(driver);
+    }
+
+    public String getTitle() {
+
+        return driver.findElement(By.xpath("//label[@for=\"username\"]")).getText();
+    }
 }
+

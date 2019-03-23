@@ -46,6 +46,21 @@ public class PositiveSuit {
         Assert.assertEquals("PRIVACY POLICY", headerText2);
     }
 
+    @Test //TestCase4
+    public void OnlineHelpTest() {
+        loginPage.clickOnlineHelpButton();
+        OnlineHelpPage onlineHelpPage = new OnlineHelpPage(driver);
+        String headerText3 = onlineHelpPage.getOnlineHelpPageText();
+        Assert.assertEquals("Getting Started with Web Director", headerText3);
+    }
+
+    @Test //TestCase5
+    public void RefreshButtonTest() {
+        loginPage.clickRefreshButton();
+        String TitleLogin = loginPage.getTitle();
+        Assert.assertEquals("Login:", TitleLogin);
+    }
+
     @After
     public void ShutDown() {
         driver.close();

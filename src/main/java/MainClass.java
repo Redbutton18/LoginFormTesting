@@ -14,8 +14,11 @@ public class MainClass {
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         driver.manage().window().maximize();
 
+//        OnlineHelpPage onlineHelpPage = new OnlineHelpPage(driver);
+//        System.out.println(onlineHelpPage.getOnlineHelpPageText());
+
 //        LoginPage loginPage = new LoginPage(driver);
-//        loginPage.register("test", "1234");
+//        loginPage.clickOnlineHelpButton();
 
 
     }

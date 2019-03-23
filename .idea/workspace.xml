@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36eddf8c-8633-49ef-9dd2-83bc2fed12f4" name="Default Changelist" comment="" />
+    <list default="true" id="36eddf8c-8633-49ef-9dd2-83bc2fed12f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/OnlineHelpPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PositiveSuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PositiveSuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PositiveSuit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PositiveSuit.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +33,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="306">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,20 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/PositiveSuit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+            <state relative-caret-position="1037">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,10 +55,38 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/OnlineHelpPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="95" lean-forward="true" selection-start-line="10" selection-start-column="95" selection-end-line="10" selection-end-column="95" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PositiveSuit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="53" column="62" selection-start-line="53" selection-start-column="62" selection-end-line="53" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2288#2289#0" expanded="true" />
+                <element signature="e#2318#2319#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/NegativeSuit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="41" lean-forward="true" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+            <state relative-caret-position="2023">
+              <caret line="126" column="406" selection-start-line="126" selection-start-column="28" selection-end-line="126" selection-end-column="406" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,8 +123,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PrivacyPolicyPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="34">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#316#317#0" expanded="true" />
@@ -118,6 +143,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -125,10 +153,11 @@
         <option value="$PROJECT_DIR$/src/main/java/ResetPasswordPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/PrivacyPolicyPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/PrereleasePage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MainClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/NegativeSuit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MainClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/PositiveSuit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OnlineHelpPage.java" />
       </list>
     </option>
   </component>
@@ -140,16 +169,17 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="546" />
-    <option name="y" value="2" />
+    <option name="x" value="545" />
     <option name="width" value="1215" />
     <option name="height" value="1015" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,13 +222,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553241674949" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553332187682" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -212,50 +242,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.NegativeSuit.IncorrectPasswordField">
-    <configuration name="All in testloginpagefintegro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PositiveSuit.OnlineHelpTest">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
       <module name="testloginpagefintegro" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NegativeSuit.IncorrectPasswordField" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PositiveSuit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testloginpagefintegro" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NegativeSuit" />
-      <option name="METHOD_NAME" value="IncorrectPasswordField" />
+      <option name="MAIN_CLASS_NAME" value="PositiveSuit" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositiveSuit.OnlineHelpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testloginpagefintegro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PositiveSuit" />
+      <option name="METHOD_NAME" value="OnlineHelpTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NegativeSuit.JSInjectionUsage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PositiveSuit.PrivacyPolicyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testloginpagefintegro" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NegativeSuit" />
-      <option name="METHOD_NAME" value="JSInjectionUsage" />
+      <option name="MAIN_CLASS_NAME" value="PositiveSuit" />
+      <option name="METHOD_NAME" value="PrivacyPolicyTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NegativeSuit.MaxFieldsLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PositiveSuit.RefreshButtonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testloginpagefintegro" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NegativeSuit" />
-      <option name="METHOD_NAME" value="MaxFieldsLength" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NegativeSuit.MinFieldsLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testloginpagefintegro" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NegativeSuit" />
-      <option name="METHOD_NAME" value="MinFieldsLength" />
+      <option name="MAIN_CLASS_NAME" value="PositiveSuit" />
+      <option name="METHOD_NAME" value="RefreshButtonTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -263,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.NegativeSuit.IncorrectPasswordField" />
-        <item itemvalue="JUnit.All in testloginpagefintegro" />
-        <item itemvalue="JUnit.NegativeSuit.MinFieldsLength" />
-        <item itemvalue="JUnit.NegativeSuit.MaxFieldsLength" />
-        <item itemvalue="JUnit.NegativeSuit.JSInjectionUsage" />
+        <item itemvalue="JUnit.PositiveSuit.OnlineHelpTest" />
+        <item itemvalue="JUnit.PositiveSuit" />
+        <item itemvalue="JUnit.PositiveSuit.PrivacyPolicyTest" />
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="JUnit.PositiveSuit.RefreshButtonTest" />
       </list>
     </recent_temporary>
   </component>
@@ -285,42 +313,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NegativeSuit_EndingWithSpacesField - 2019.03.22 at 08h 47m 27s.xml">
-      <configuration name="NegativeSuit.EndingWithSpacesField" configurationId="JUnit" />
+    <history-entry file="PositiveSuit_OnlineHelpTest - 2019.03.22 at 16h 55m 13s.xml">
+      <configuration name="PositiveSuit.OnlineHelpTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NegativeSuit_LoginWithRegister - 2019.03.22 at 08h 51m 09s.xml">
-      <configuration name="NegativeSuit.LoginWithRegister" configurationId="JUnit" />
+    <history-entry file="PositiveSuit_OnlineHelpTest - 2019.03.22 at 16h 57m 14s.xml">
+      <configuration name="PositiveSuit.OnlineHelpTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NegativeSuit_SpecialCharactersUsage - 2019.03.22 at 08h 54m 02s.xml">
-      <configuration name="NegativeSuit.SpecialCharactersUsage" configurationId="JUnit" />
+    <history-entry file="PositiveSuit_RefreshButtonTest - 2019.03.22 at 17h 08m 11s.xml">
+      <configuration name="PositiveSuit.RefreshButtonTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NegativeSuit_CyrillicAlphabetUsage - 2019.03.22 at 08h 56m 29s.xml">
-      <configuration name="NegativeSuit.CyrillicAlphabetUsage" configurationId="JUnit" />
+    <history-entry file="PositiveSuit_RefreshButtonTest - 2019.03.22 at 17h 19m 36s.xml">
+      <configuration name="PositiveSuit.RefreshButtonTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NegativeSuit_SQLInjectionUsage - 2019.03.22 at 08h 58m 38s.xml">
-      <configuration name="NegativeSuit.SQLInjectionUsage" configurationId="JUnit" />
+    <history-entry file="PositiveSuit_OnlineHelpTest - 2019.03.22 at 17h 43m 17s.xml">
+      <configuration name="PositiveSuit.OnlineHelpTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NegativeSuit_JSInjectionUsage - 2019.03.22 at 09h 00m 11s.xml">
-      <configuration name="NegativeSuit.JSInjectionUsage" configurationId="JUnit" />
+    <history-entry file="PositiveSuit_OnlineHelpTest - 2019.03.22 at 17h 46m 37s.xml">
+      <configuration name="PositiveSuit.OnlineHelpTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NegativeSuit_MaxFieldsLength - 2019.03.22 at 09h 05m 36s.xml">
-      <configuration name="NegativeSuit.MaxFieldsLength" configurationId="JUnit" />
+    <history-entry file="PositiveSuit_PrivacyPolicyTest - 2019.03.22 at 17h 47m 04s.xml">
+      <configuration name="PositiveSuit.PrivacyPolicyTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NegativeSuit_MinFieldsLength - 2019.03.22 at 09h 09m 09s.xml">
-      <configuration name="NegativeSuit.MinFieldsLength" configurationId="JUnit" />
+    <history-entry file="PositiveSuit - 2019.03.22 at 17h 49m 40s.xml">
+      <configuration name="PositiveSuit" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_testloginpagefintegro - 2019.03.22 at 09h 17m 36s.xml">
-      <configuration name="All in testloginpagefintegro" configurationId="JUnit" />
+    <history-entry file="PositiveSuit - 2019.03.23 at 11h 00m 54s.xml">
+      <configuration name="PositiveSuit" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NegativeSuit_IncorrectPasswordField - 2019.03.22 at 09h 19m 46s.xml">
-      <configuration name="NegativeSuit.IncorrectPasswordField" configurationId="JUnit" />
+    <history-entry file="PositiveSuit_OnlineHelpTest - 2019.03.23 at 11h 02m 58s.xml">
+      <configuration name="PositiveSuit.OnlineHelpTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="437" y="2" width="972" height="812" extended-state="0" />
+    <frame x="436" y="0" width="972" height="812" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25548247" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26864034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -329,7 +357,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32794118" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -337,7 +365,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32941177" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32794118" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -348,31 +376,32 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26864034" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32794118" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
@@ -385,8 +414,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="306">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -395,8 +424,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        <state relative-caret-position="1037">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/NegativeSuit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2023">
+          <caret line="126" column="406" selection-start-line="126" selection-start-column="28" selection-end-line="126" selection-end-column="406" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -427,8 +466,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PrivacyPolicyPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="34">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#316#317#0" expanded="true" />
@@ -439,20 +478,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PositiveSuit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        <state relative-caret-position="275">
+          <caret line="53" column="62" selection-start-line="53" selection-start-column="62" selection-end-line="53" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2288#2289#0" expanded="true" />
+            <element signature="e#2318#2319#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/NegativeSuit.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/OnlineHelpPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="41" lean-forward="true" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+        <state relative-caret-position="170">
+          <caret line="10" column="95" lean-forward="true" selection-start-line="10" selection-start-column="95" selection-end-line="10" selection-end-column="95" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
           </folding>
         </state>
       </provider>
