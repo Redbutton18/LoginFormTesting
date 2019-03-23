@@ -5,20 +5,7 @@ import org.testng.annotations.*;
 
 import java.util.concurrent.TimeUnit;
 
-public class NegativeSuit {
-    private WebDriver driver;
-    private LoginPage loginPage;
-
-    @BeforeMethod
-    public void SetUp() {
-
-        System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
-        driver = new ChromeDriver();
-        driver.get("https://autotest-prerelease.intesting.ca/login");
-        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
-        driver.manage().window().maximize();
-        loginPage = new LoginPage(driver);
-    }
+public class NegativeSuit extends MainClass{
 
     @Test //TestCase1
     public void AllEmptyFieldsTest() {
@@ -136,8 +123,4 @@ public class NegativeSuit {
         Assert.assertEquals("Field can't be empty and less then 3 symbol", error8);
     }
 
-    @AfterMethod
-    public void ShutDown() {
-        driver.quit();
     }
-}

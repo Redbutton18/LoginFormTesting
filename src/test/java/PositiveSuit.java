@@ -3,22 +3,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
+
 import java.util.concurrent.TimeUnit;
 
-public class PositiveSuit {
-    private WebDriver driver;
-    private LoginPage loginPage;
-
-    @BeforeMethod
-    public void SetUp() {
-
-        System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
-        driver = new ChromeDriver();
-        driver.get("https://autotest-prerelease.intesting.ca/login");
-        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
-        driver.manage().window().maximize();
-        loginPage = new LoginPage(driver);
-    }
+public class PositiveSuit extends MainClass {
 
     @Test //TestCase1
     public void LoginTest() {
