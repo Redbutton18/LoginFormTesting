@@ -13,9 +13,9 @@ public class LoginPage {
     private By loginButton = By.xpath("//a[@class=\"a_login btn_submit\"]");
     private By linkResetPassword = By.xpath("//a[text()=\"Reset your password\"]");
     private By linkPrivacyPolicy = By.xpath("//a[text()=\"Privacy policy\"]");
-    private By error1 = By.xpath("//div[text()=\"Incorrect login or password.\"]");
-    private By error2 = By.xpath("//*[@id=\"username-element\"]/span");
-    private By error3 = By.xpath("//*[@id=\"password-element\"]/span");
+    private By errorIncorrectLogPassword = By.xpath("//div[text()=\"Incorrect login or password.\"]");
+    private By errorEmptyLogField = By.xpath("//*[@id=\"username-element\"]/span");
+    private By errorEmptyPasswField = By.xpath("//*[@id=\"password-element\"]/span");
     private By linkOnlineHelp = By.xpath("//a[@class =\"element place-right\"]");
     private By buttonRefresh = By.xpath("//a[@title=\"Refresh\"]");
 
@@ -52,16 +52,16 @@ public class LoginPage {
         return new PrereleasePage(driver);
     }
 
-    public String getError1Text() {
-        return driver.findElement(error1).getText();
+    public String getErrorIncorrLogPasswText() {
+        return driver.findElement(errorIncorrectLogPassword).getText();
     }
 
-    public String getError2Text() {
-        return driver.findElement(error2).getText();
+    public String getErrorEmptyLogFieldText() {
+        return driver.findElement(errorEmptyLogField).getText();
     }
 
-    public String getError3Text() {
-        return driver.findElement(error3).getText();
+    public String getErrorEmptyPasswFieldText() {
+        return driver.findElement(errorEmptyPasswField).getText();
     }
 
     public OnlineHelpPage clickOnlineHelpButton () {

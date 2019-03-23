@@ -1,0 +1,7 @@
+<suite name="Negative">
+    <test name="Test2">
+        <classes>
+            <class name="NegativeSuit"/>
+        </classes>>
+    </test>>
+</suite>

@@ -1,9 +1,9 @@
-import org.junit.After;
-import org.junit.Assert;
-import org.junit.Before;
-import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
@@ -11,7 +11,7 @@ public class PositiveSuit {
     private WebDriver driver;
     private LoginPage loginPage;
 
-    @Before
+    @BeforeClass
     public void SetUp() {
 
         System.setProperty("webdriver.cromedriver", "C:\\Users\\Redbutton\\IdeaProjects\\testloginpagefintegro\\driver\\chromedriver.exe");
@@ -61,7 +61,7 @@ public class PositiveSuit {
         Assert.assertEquals("Login:", TitleLogin);
     }
 
-    @After
+    @AfterClass
     public void ShutDown() {
         driver.close();
     }
