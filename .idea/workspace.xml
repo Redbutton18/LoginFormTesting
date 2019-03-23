@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36eddf8c-8633-49ef-9dd2-83bc2fed12f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NegativeSuit1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PositiveSuit1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PositiveSuit1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PositiveSuit1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/NegativeSuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NegativeSuit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/PositiveSuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PositiveSuit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/NegativeSuit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/NegativeSuit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PositiveSuit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PositiveSuit.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,10 +17,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="306">
               <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -64,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/PositiveSuit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="445">
+              <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2288#2289#0" expanded="true" />
@@ -78,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/NegativeSuit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="187">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,7 +81,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NegativeSuit1.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -99,8 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PositiveSuit1.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state relative-caret-position="153">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -168,10 +162,10 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/LoginPage.java" />
         <option value="$PROJECT_DIR$/PositiveSuit2.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/NegativeSuit.java" />
-        <option value="$PROJECT_DIR$/src/test/java/PositiveSuit.java" />
-        <option value="$PROJECT_DIR$/PositiveSuit1.xml" />
         <option value="$PROJECT_DIR$/NegativeSuit1.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/PositiveSuit.java" />
+        <option value="$PROJECT_DIR$/src/test/java/NegativeSuit.java" />
+        <option value="$PROJECT_DIR$/PositiveSuit1.xml" />
       </list>
     </option>
   </component>
@@ -183,8 +177,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="513" />
-    <option name="y" value="2" />
+    <option name="x" value="525" />
+    <option name="y" value="1" />
     <option name="width" value="1215" />
     <option name="height" value="1015" />
   </component>
@@ -241,8 +235,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553351784450" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553354858949" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testloginpagefintegro3" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -334,8 +328,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/Users/Redbutton/IdeaProjects/testloginpagefintegro/NegativeSuit1.xml" />
-        <item itemvalue="TestNG.NegativeSuit" />
         <item itemvalue="TestNG.PositiveSuit" />
+        <item itemvalue="TestNG.NegativeSuit" />
         <item itemvalue="TestNG.PositiveSuit.PrivacyPolicyTest" />
         <item itemvalue="TestNG.PositiveSuit.RefreshButtonTest" />
       </list>
@@ -373,28 +367,17 @@
       <option name="project" value="LOCAL" />
       <updated>1553332470019</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit 2">
+      <created>1553351858335</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553351858335</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PositiveSuit - 2019.03.23 at 11h 33m 49s.xml">
-      <configuration name="PositiveSuit" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PositiveSuit_LoginTest - 2019.03.23 at 15h 00m 04s.xml">
-      <configuration name="PositiveSuit.LoginTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PositiveSuit - 2019.03.23 at 15h 14m 38s.xml">
-      <configuration name="PositiveSuit" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PositiveSuit_ResetTest - 2019.03.23 at 15h 17m 17s.xml">
-      <configuration name="PositiveSuit.ResetTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PositiveSuit_RefreshButtonTest - 2019.03.23 at 15h 17m 55s.xml">
-      <configuration name="PositiveSuit.RefreshButtonTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PositiveSuit_PrivacyPolicyTest - 2019.03.23 at 15h 18m 13s.xml">
-      <configuration name="PositiveSuit.PrivacyPolicyTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="PositiveSuit - 2019.03.23 at 15h 19m 17s.xml">
       <configuration name="PositiveSuit" configurationId="TestNG" />
     </history-entry>
@@ -407,9 +390,28 @@
     <history-entry file="C__Users_Redbutton_IdeaProjects_testloginpagefintegro_PositiveSuit1_xml - 2019.03.23 at 16h 35m 43s.xml">
       <configuration name="C:/Users/Redbutton/IdeaProjects/testloginpagefintegro/PositiveSuit1.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_Redbutton_IdeaProjects_testloginpagefintegro_NegativeSuit1_xml - 2019.03.23 at 16h 36m 54s.xml">
+      <configuration name="C:/Users/Redbutton/IdeaProjects/testloginpagefintegro/NegativeSuit1.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PositiveSuit - 2019.03.23 at 17h 02m 20s.xml">
+      <configuration name="PositiveSuit" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PositiveSuit - 2019.03.23 at 17h 06m 18s.xml">
+      <configuration name="PositiveSuit" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Redbutton_IdeaProjects_testloginpagefintegro_PositiveSuit1_xml - 2019.03.23 at 17h 21m 09s.xml">
+      <configuration name="C:/Users/Redbutton/IdeaProjects/testloginpagefintegro/PositiveSuit1.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Redbutton_IdeaProjects_testloginpagefintegro_PositiveSuit1_xml - 2019.03.23 at 17h 24m 44s.xml">
+      <configuration name="C:/Users/Redbutton/IdeaProjects/testloginpagefintegro/PositiveSuit1.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Redbutton_IdeaProjects_testloginpagefintegro_NegativeSuit1_xml - 2019.03.23 at 17h 27m 45s.xml">
+      <configuration name="C:/Users/Redbutton/IdeaProjects/testloginpagefintegro/NegativeSuit1.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="411" y="2" width="972" height="812" extended-state="0" />
+    <frame x="420" y="1" width="972" height="812" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24780701" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -438,11 +440,40 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24780701" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33970588" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32647058" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
     <MESSAGE value="Commit 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 1" />
+    <MESSAGE value="Commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -501,26 +532,6 @@
     <entry file="file://$PROJECT_DIR$/PositiveSuit1">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/NegativeSuit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MainClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1037">
@@ -533,8 +544,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PositiveSuit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="445">
+          <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2288#2289#0" expanded="true" />
@@ -543,10 +554,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/NegativeSuit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PositiveSuit1.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="153">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -554,6 +575,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

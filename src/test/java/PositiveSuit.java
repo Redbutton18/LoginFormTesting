@@ -1,9 +1,7 @@
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.Test;
+import org.testng.annotations.*;
 
 import java.util.concurrent.TimeUnit;
 
@@ -11,10 +9,10 @@ public class PositiveSuit {
     private WebDriver driver;
     private LoginPage loginPage;
 
-    @BeforeClass
+    @BeforeMethod
     public void SetUp() {
 
-        System.setProperty("webdriver.cromedriver", "C:\\Users\\Redbutton\\IdeaProjects\\testloginpagefintegro\\driver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "driver/chromedriver.exe");
         driver = new ChromeDriver();
         driver.get("https://autotest-prerelease.intesting.ca/login");
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
@@ -61,8 +59,8 @@ public class PositiveSuit {
         Assert.assertEquals("Login:", TitleLogin);
     }
 
-    @AfterClass
+    @AfterMethod
     public void ShutDown() {
-        driver.close();
+        driver.quit();
     }
 }

@@ -2,6 +2,9 @@
     <test name="Test1">
         <classes>
             <class name="PositiveSuit"/>
+            <!--<methods>-->
+                <!--<include name="LoginTest"></include>-->
+            <!--</methods>-->
         </classes>>
     </test>>
 </suite>
