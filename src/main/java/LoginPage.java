@@ -15,7 +15,7 @@ public class LoginPage {
     private By linkPrivacyPolicy = By.xpath("//a[text()=\"Privacy policy\"]");
     private By errorIncorrectLogPassword = By.xpath("//div[text()=\"Incorrect login or password.\"]");
     private By errorEmptyLogField = By.xpath("//*[@id=\"username-element\"]/span");
-    private By errorEmptyPasswField = By.xpath("//*[@id=\"password-element\"]/span");
+    private By errorEmptyPasswordField = By.xpath("//*[@id=\"password-element\"]/span");
     private By linkOnlineHelp = By.xpath("//a[@class =\"element place-right\"]");
     private By buttonRefresh = By.xpath("//a[@title=\"Refresh\"]");
 
@@ -61,7 +61,7 @@ public class LoginPage {
     }
 
     public String getErrorEmptyPasswFieldText() {
-        return driver.findElement(errorEmptyPasswField).getText();
+        return driver.findElement(errorEmptyPasswordField).getText();
     }
 
     public OnlineHelpPage clickOnlineHelpButton () {
